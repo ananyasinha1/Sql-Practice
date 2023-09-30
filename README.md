@@ -1,2 +1,2 @@
 # Sql-Practice
-This is my practice workbook
+This is my SQL practice workbook
